@@ -4,4 +4,4 @@ sources:
   - name: taj
     schema: public
     tables:
-      - name: shopify_orders
+      - name: testdbt_orders

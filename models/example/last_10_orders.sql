@@ -1,3 +1,3 @@
 SELECT * FROM 
-    {{ source( 'taj','shopify_orders' ) }}
+    {{ source( 'taj','testdbt_orders' ) }}
 LIMIT 10
