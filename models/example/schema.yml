@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: last_10_orders
+    description: "Last 10 Shopify orders"
